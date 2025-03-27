@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @ABarpanda
 - 👀 I’m interested in Machine Learning (specifically Natural Language Processing)
 - 🌱 I’m currently learning Python and related fields
-- 💞️ I’m looking to collaborate on [![Animegen](http://github.com/ABarpanda/Animegen)]
+- 💞️ I’m looking to collaborate on [Animegen](http://github.com/ABarpanda/Animegen)
 - 📫 How to reach me ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABarpanda&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
